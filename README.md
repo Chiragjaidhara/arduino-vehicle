@@ -1,7 +1,6 @@
 >>>
 **Project-Template**
 
-Please use this template for your practical electronics project. (feel free to delete this section) 
 
 You can find a quick guide in the following [cheat sheet](https://www.markdownguide.org/cheat-sheet/) or specific [gitlab style](https://docs.gitlab.com/ee/user/markdown.html) here
 
